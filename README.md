@@ -1,7 +1,7 @@
 <h1>Brown Plant Hopper Detection</h1>
-This is a Python code for a Brown Plant Hopper Detection application using computer vision and machine learning techniques. The code allows you to detect and classify the presence of brown plant hoppers in real-time video streams or uploaded images.
+<p>This is a Python code for a Brown Plant Hopper Detection application using computer vision and machine learning techniques. The code allows you to detect and classify the presence of brown plant hoppers in real-time video streams or uploaded images.</p>
 
-Dependencies
+</h2>Dependencies</h2>
 Python 3.x
 OpenCV (cv2)
 NumPy (numpy)
